@@ -4,8 +4,8 @@
     </a>
 </div>
 <h1 align="center">Dark Castle Theme for     
-    <a href="https://example.com" target="_blank">
-    [Example Platform]
+    <a href="https://learn.microsoft.com/en-us/windows/terminal/" target="_blank">
+    Windows Terminal
     </a>
 </h1>
 <p align="center">

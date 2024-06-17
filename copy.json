@@ -1,0 +1,23 @@
+{
+  "name": "Dark Castle",
+  "cursorColor": "#FF8040",
+  "selectionBackground": "#292929",
+  "background": "#000000",
+  "foreground": "#FFD580",
+  "black": "#1A1A1A",
+  "blue": "#2D449B",
+  "cyan": "#007B88",
+  "green": "#08D220",
+  "purple": "#AA1B86",
+  "red": "#FF000F",
+  "white": "#9C9C9C",
+  "yellow": "#DFC200",
+  "brightBlack": "#292929",
+  "brightBlue": "#4164FF",
+  "brightCyan": "#4DBCED",
+  "brightGreen": "#BAE67E",
+  "brightPurple": "#9354FF",
+  "brightRed": "#EF6B73",
+  "brightWhite": "#FFFFFF",
+  "brightYellow": "#FFD580"
+}
